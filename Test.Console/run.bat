@@ -1,0 +1,1 @@
+test.console.client.exe 127.0.0.1 2000 "ESTX50 PlatESTX50 20090730 53959361 -1 0 0 2672.00\n"
